@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "938C0089CFF8F9BCA082CA6E2295823601884A17",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "938C0089CFF8F9BCA082CA6E2295823601884A17" : 9223372036854775807,
+    "FA442284B3197FD9DD7EFF7AB64A45067088D3E9" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CC94F0F4-5CE4-4DE0-8602-C3893B90728F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "938C0089CFF8F9BCA082CA6E2295823601884A17" : "CustomTabCenterBig\/",
+    "FA442284B3197FD9DD7EFF7AB64A45067088D3E9" : "CustomTabCenterBig\/DeepLearningKit\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CustomTabCenterBig",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CustomTabCenterBig.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nitingohel\/CustomTabCenterBig",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "938C0089CFF8F9BCA082CA6E2295823601884A17"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DeepLearningKit\/DeepLearningKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FA442284B3197FD9DD7EFF7AB64A45067088D3E9"
+    }
+  ]
+}

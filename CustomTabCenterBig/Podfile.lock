@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.6.0)
+  - ESTabBarController-swift (2.1)
+
+DEPENDENCIES:
+  - Alamofire (from `https://github.com/Alamofire/Alamofire.git`)
+  - ESTabBarController-swift
+
+EXTERNAL SOURCES:
+  Alamofire:
+    :git: https://github.com/Alamofire/Alamofire.git
+
+CHECKOUT OPTIONS:
+  Alamofire:
+    :commit: 098a42007eda5d417a41db44fac14abffa55b234
+    :git: https://github.com/Alamofire/Alamofire.git
+
+SPEC CHECKSUMS:
+  Alamofire: 0dda98a0ed7eec4bdcd5fe3cdd35fcd2b3022825
+  ESTabBarController-swift: 8b54372903c29d7d43a20d3c3c65a5c80f307c7c
+
+PODFILE CHECKSUM: 828dfbe2894264141deafe97893b41d4840d18e1
+
+COCOAPODS: 1.4.0
